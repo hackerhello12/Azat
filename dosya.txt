@@ -1,0 +1,1 @@
+trojan://bj40pTHOLy@95.85.56.108:443?path=%2F&security=tls&alpn=http%2F1.1&host=adger2.dota-clips.space&fp=chrome&type=ws&sni=adger2.dota-clips.space#German🇩🇪
